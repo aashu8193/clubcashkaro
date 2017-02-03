@@ -1,0 +1,118 @@
+[04-Jan-2017 05:22:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ckambassadors/public_html/control/admin/requested-rewards.php on line 27
+[05-Jan-2017 04:59:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ckambassadors/public_html/control/admin/pending-users.php on line 27
+[05-Jan-2017 05:00:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ckambassadors/public_html/control/admin/pending-users.php on line 27
+[05-Jan-2017 05:00:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ckambassadors/public_html/control/admin/pending-users.php on line 27
+[09-Jan-2017 10:00:17 UTC] PHP Notice:  Undefined variable: admin_role in /home/ckambassadors/public_html/control/admin/navigation.inc.php on line 27
+[09-Jan-2017 10:00:17 UTC] PHP Notice:  Undefined variable: admin_role in /home/ckambassadors/public_html/control/admin/navigation.inc.php on line 62
+[10-Jan-2017 06:55:51 UTC] PHP Fatal error:  Call to a member function fetch() on boolean in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 18
+[10-Jan-2017 06:56:15 UTC] PHP Notice:  Undefined index: search_by in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 06:56:15 UTC] PHP Notice:  Undefined index: search_by_value in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 06:56:15 UTC] PHP Notice:  Undefined index: issue_date_start in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 06:56:15 UTC] PHP Notice:  Undefined index: issue_date_end in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 06:56:15 UTC] PHP Fatal error:  Call to a member function fetch() on boolean in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 18
+[10-Jan-2017 07:03:22 UTC] PHP Notice:  Undefined index: search_by in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:03:22 UTC] PHP Notice:  Undefined index: search_by_value in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:03:22 UTC] PHP Notice:  Undefined index: issue_date_start in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:03:22 UTC] PHP Notice:  Undefined index: issue_date_end in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:03:22 UTC] PHP Fatal error:  Call to a member function fetch() on boolean in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 18
+[10-Jan-2017 07:05:24 UTC] PHP Notice:  Undefined index: search_by in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:05:24 UTC] PHP Notice:  Undefined index: search_by_value in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:05:24 UTC] PHP Fatal error:  Call to a member function fetch() on boolean in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 18
+[10-Jan-2017 07:38:19 UTC] PHP Notice:  Undefined variable: task_id in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 78
+[10-Jan-2017 07:40:46 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:40:46 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:42:00 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:42:00 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:42:00 UTC] PHP Notice:  Undefined variable: task_id in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 80
+[10-Jan-2017 07:42:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:42:19 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:42:32 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:42:32 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:43:27 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:43:27 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:44:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:44:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:45:15 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:45:15 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:45:15 UTC] PHP Notice:  Undefined variable: task_id in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 80
+[10-Jan-2017 07:45:21 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:45:21 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:45:21 UTC] PHP Notice:  Undefined variable: task_id in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 80
+[10-Jan-2017 07:46:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:46:16 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:46:16 UTC] PHP Notice:  Undefined variable: task_id in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 81
+[10-Jan-2017 07:48:54 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:48:54 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:48:54 UTC] PHP Notice:  Undefined variable: task_id in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 81
+[10-Jan-2017 07:50:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:50:17 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[10-Jan-2017 07:50:29 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 15
+[10-Jan-2017 07:50:29 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/ckambassadors/public_html/control/admin/get-task-details.php on line 16
+[24-Jan-2017 12:33:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ckambassadors/public_html/control/admin/pending-users.php on line 27
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: admin_role in /home/ckambassadors/public_html/control/admin/navigation.inc.php on line 27
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: admin_role in /home/ckambassadors/public_html/control/admin/navigation.inc.php on line 62
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 84
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 90
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 96
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 102
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 108
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 114
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 121
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 122
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 123
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 129
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 136
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 137
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 143
+[24-Jan-2017 17:28:13 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 149
+[25-Jan-2017 07:06:33 UTC] PHP Notice:  Uninitialized string offset: 7 in /home/ckambassadors/public_html/control/admin/view-user-details.php on line 146
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: admin_role in /home/ckambassadors/public_html/control/admin/navigation.inc.php on line 27
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: admin_role in /home/ckambassadors/public_html/control/admin/navigation.inc.php on line 62
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 84
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 90
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 96
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 102
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 108
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 114
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 121
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 122
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 123
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 129
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 136
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 137
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 143
+[25-Jan-2017 08:24:29 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 149
+[25-Jan-2017 08:56:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ckambassadors/public_html/control/admin/pending-users.php on line 27
+[25-Jan-2017 09:02:42 UTC] PHP Notice:  Uninitialized string offset: 7 in /home/ckambassadors/public_html/control/admin/view-user-details.php on line 146
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: admin_role in /home/ckambassadors/public_html/control/admin/navigation.inc.php on line 27
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: admin_role in /home/ckambassadors/public_html/control/admin/navigation.inc.php on line 62
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 84
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 90
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 96
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 102
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 108
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 114
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 121
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 122
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 123
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 129
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 136
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 137
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 143
+[25-Jan-2017 11:07:37 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 149
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: admin_role in /home/ckambassadors/public_html/control/admin/navigation.inc.php on line 27
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: admin_role in /home/ckambassadors/public_html/control/admin/navigation.inc.php on line 62
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 84
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 90
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 96
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 102
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 108
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 114
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 121
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 122
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 123
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 129
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 136
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 137
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 143
+[26-Jan-2017 04:29:43 UTC] PHP Notice:  Undefined variable: row2 in /home/ckambassadors/public_html/control/admin/edit-user-details.php on line 149
